@@ -1,0 +1,7 @@
+imageio==2.9.0
+imageio-ffmpeg==0.4.2
+numpy==1.19.1
+pathtools==0.1.2
+Pillow==7.2.0
+pygifsicle==1.0.1
+watchdog==0.10.3
